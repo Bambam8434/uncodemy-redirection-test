@@ -2096,9 +2096,11 @@ footer {
 }
 .data_main_heading {
   color: #000;
-  padding-top: 40px;
+  padding-top: 38px;
   font-size: xx-large;
   font-weight: 800;
+  text-align: center;
+  margin: 0px 0 10px 0;
 }
 .IN-PUT,
 .INS {

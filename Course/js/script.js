@@ -1,3 +1,4 @@
+
 console.log("script first part is running");
 var schema = {
     "@context": "https://schema.org/",

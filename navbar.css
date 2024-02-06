@@ -214,8 +214,9 @@ menuitem:hover > menu {
   .courses {
     width: 16rem !important;
     height:155px;
+    margin: 15px 10px -20px 0 !important;
   }
-  .COuRs {
+  .COuRs, #active-course {
     height: 65vh;
     overflow-y: scroll;
   }
@@ -540,7 +541,7 @@ row-gap: 30px !important;
       flex: 0 calc(50.333% - 40px);
     margin-top: 0px !important;
 }
-.COuRs {
+.COuRs, #active-course {
   height: 65vh;
   overflow-y: scroll;
 }
@@ -549,6 +550,7 @@ row-gap: 30px !important;
   font-size: 14px;
   min-height: 65px;
 }
+
 }
 @media only screen and (min-width: 1000px) and (max-width: 1230px) {
   .TRaiN {
